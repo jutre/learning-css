@@ -1,6 +1,6 @@
 # Learning CSS
 ### About this repository
-This repository contains code created while learning CSS for creating various aspects: layout, styling and SCSS preprocessor.
+This repository contains code created while learning CSS for creating various aspects: layout, styling and SASS preprocessor.
 The src directory contains a single React script which can be launched using bundler e.g. Vite. React script functionality is simple - checking the input field to be valid email address when form is submitted. The main effort was creating CSS styling. Design is responsive, looks similar on phone and tablet screens, layout changes when screen is larger than tablet screen; the style of email input field changes in case of invalid input.
  
 
